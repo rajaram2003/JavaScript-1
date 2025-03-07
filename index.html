@@ -5,11 +5,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>To-Do List App</title>
   <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.lordicon.com/lordicon.js"></script>
 </head>
 <body>
   <div class="container">
     <div class="todo-app">
-      <h2>To-Do List <img src="images/icon.png" alt=""></h2>
+    <h2>To-Do List 
+      <lord-icon
+      src="https://cdn.lordicon.com/xljvqlng.json"
+      trigger="hover"
+      colors="primary:#6d42c7"
+      style="width:40px;height:40px">
+    </lord-icon>
+  </h2>
       <div class="row">
         <input type="text" id="input-box" placeholder="What do you need to do today?">
         <button>Add</button>

@@ -25,11 +25,12 @@
   color: #6d42c7;
   display: flex;
   align-items: center;
-  margin-bottom: 20px;
+  margin-bottom: 15px;
 }
 
-.todo-app h2 img{
+.todo-app h2 lord-icon {
   width: 30px;
+  height: 30px;
   margin-left: 10px;
 }
 
