@@ -93,5 +93,5 @@ ul li.checked{
 }
 
 ul li.checked::before{
-  background-image: url(images/checked.png);
+  background-image: url(images/system-solid-31-check-hover-check.png);
 }
