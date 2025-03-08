@@ -64,6 +64,11 @@ button {
   border-radius: 40px;
 }
 
+button:hover {
+  background: #5a34a3; 
+  transform: scale(1.01); 
+}
+
 ul li {
   list-style: none;
   font-size: 17px;
