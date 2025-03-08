@@ -42,10 +42,10 @@ This is a simple and responsive To-Do List App built using HTML, CSS, and JavaSc
 4. **Data Persistence:** Tasks are automatically saved in local storage and restored when the page is reopened.
 
 ## Live Demo
-[Click here to view the live project](https://your-live-link.com)
+[Click here to view the live project](https://rajaram2003.github.io/JavaScript-1/)
 
 ## Preview
-![To-Do List Preview](images/preview.png)
+![To-Do List Preview](images/image.png)
 
 ## Future Enhancements
 - Add an edit feature to update tasks.
@@ -55,8 +55,4 @@ This is a simple and responsive To-Do List App built using HTML, CSS, and JavaSc
 ## Author
 - **Your Name** (Rajaram)
 - **Email:** rajarambiswal123@gmail.com
-- **GitHub:** [Your GitHub Profile](https://github.com/your-github)
-
-## License
-This project is open-source and available under the MIT License.
-
+- **GitHub:** [Your GitHub Profile](https://github.com/rajaram2003)
