@@ -53,6 +53,6 @@ This is a simple and responsive To-Do List App built using HTML, CSS, and JavaSc
 - Improve UI with animations and themes.
 
 ## Author
-- **Name** (Rajaram Biswal)
+- **Name:** Rajaram Biswal
 - **Email:** rajarambiswal123@gmail.com
 - **GitHub:** [Your GitHub Profile](https://github.com/rajaram2003)
